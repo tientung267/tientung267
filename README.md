@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tientung267
-- 👀 I’m interested in small projects for begiiner
-- 🌱 I’m currently learning java
+- 👀 I’m interested in small projects for beginner
+- 🌱 I’m currently learning java, python and C
 - 📫 How to reach me ...
 
 <!---
